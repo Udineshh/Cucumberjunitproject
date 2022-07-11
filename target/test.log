@@ -1,0 +1,27 @@
+[INFO ] 2022-07-08 09:47:08.402 [main] BaseClass - Browser Opened Sucessfully
+[INFO ] 2022-07-08 09:47:08.897 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (8344c8a224f26e68a1a912f5fbd2f84e)] -> id: user-name] is visible
+[INFO ] 2022-07-08 09:47:09.118 [main] BaseClass - standard_user is entered in [[ChromeDriver: chrome on WINDOWS (8344c8a224f26e68a1a912f5fbd2f84e)] -> id: user-name]
+[INFO ] 2022-07-08 09:47:09.167 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (8344c8a224f26e68a1a912f5fbd2f84e)] -> id: password] is visible
+[INFO ] 2022-07-08 09:47:09.291 [main] BaseClass - secret_sauce is entered in [[ChromeDriver: chrome on WINDOWS (8344c8a224f26e68a1a912f5fbd2f84e)] -> id: password]
+[INFO ] 2022-07-08 09:47:09.329 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (8344c8a224f26e68a1a912f5fbd2f84e)] -> id: login-button] is visible
+[INFO ] 2022-07-08 09:47:09.500 [main] BaseClass - Proxy element for: DefaultElementLocator 'By.id: login-button' is Clicked
+[INFO ] 2022-07-08 09:47:09.557 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (8344c8a224f26e68a1a912f5fbd2f84e)] -> xpath: //span[text()='Products']] is visible
+[INFO ] 2022-07-08 09:47:09.598 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (8344c8a224f26e68a1a912f5fbd2f84e)] -> xpath: //span[text()='Products']] is displayed
+[INFO ] 2022-07-08 09:47:09.663 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (8344c8a224f26e68a1a912f5fbd2f84e)] -> id: add-to-cart-sauce-labs-backpack] is visible
+[INFO ] 2022-07-08 09:47:09.744 [main] BaseClass - Proxy element for: DefaultElementLocator 'By.id: add-to-cart-sauce-labs-backpack' is Clicked
+[INFO ] 2022-07-08 09:47:09.798 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (8344c8a224f26e68a1a912f5fbd2f84e)] -> id: shopping_cart_container] is visible
+[INFO ] 2022-07-08 09:47:09.904 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (8344c8a224f26e68a1a912f5fbd2f84e)] -> id: shopping_cart_container] is Clicked
+[INFO ] 2022-07-08 09:47:09.970 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (8344c8a224f26e68a1a912f5fbd2f84e)] -> id: checkout] is visible
+[INFO ] 2022-07-08 09:47:10.037 [main] BaseClass - Proxy element for: DefaultElementLocator 'By.id: checkout' is Clicked
+[INFO ] 2022-07-08 09:47:10.080 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (8344c8a224f26e68a1a912f5fbd2f84e)] -> id: first-name] is visible
+[INFO ] 2022-07-08 09:47:10.193 [main] BaseClass - Test is entered in [[ChromeDriver: chrome on WINDOWS (8344c8a224f26e68a1a912f5fbd2f84e)] -> id: first-name]
+[INFO ] 2022-07-08 09:47:10.233 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (8344c8a224f26e68a1a912f5fbd2f84e)] -> id: last-name] is visible
+[INFO ] 2022-07-08 09:47:10.357 [main] BaseClass - test is entered in [[ChromeDriver: chrome on WINDOWS (8344c8a224f26e68a1a912f5fbd2f84e)] -> id: last-name]
+[INFO ] 2022-07-08 09:47:10.398 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (8344c8a224f26e68a1a912f5fbd2f84e)] -> id: postal-code] is visible
+[INFO ] 2022-07-08 09:47:10.525 [main] BaseClass - 34467 is entered in [[ChromeDriver: chrome on WINDOWS (8344c8a224f26e68a1a912f5fbd2f84e)] -> id: postal-code]
+[INFO ] 2022-07-08 09:47:10.566 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (8344c8a224f26e68a1a912f5fbd2f84e)] -> id: continue] is visible
+[INFO ] 2022-07-08 09:47:10.656 [main] BaseClass - Proxy element for: DefaultElementLocator 'By.id: continue' is Clicked
+[INFO ] 2022-07-08 09:47:10.696 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (8344c8a224f26e68a1a912f5fbd2f84e)] -> id: finish] is visible
+[INFO ] 2022-07-08 09:47:10.777 [main] BaseClass - Proxy element for: DefaultElementLocator 'By.id: finish' is Clicked
+[INFO ] 2022-07-08 09:47:10.816 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (8344c8a224f26e68a1a912f5fbd2f84e)] -> xpath: //div[@id='checkout_complete_container']/h2] is visible
+[INFO ] 2022-07-08 09:47:10.850 [main] BaseClass - [[ChromeDriver: chrome on WINDOWS (8344c8a224f26e68a1a912f5fbd2f84e)] -> xpath: //div[@id='checkout_complete_container']/h2] is displayed
