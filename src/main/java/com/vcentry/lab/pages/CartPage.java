@@ -54,7 +54,7 @@ enterText(postalcode,code);
 }
 public void clickFinish() {
 clickElement(continueBtn);
-clickElement(finishButton);
+clickElement(finishButton) ;
 }
 
 public void verifyOrderPlaced() {
